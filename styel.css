@@ -275,10 +275,11 @@ body {
 }
 
 .rounded {
-    border-radius: 50%;
-    width: 50%;
-    height: 50%;
+    border-radius: 100px;
+    width: 150px;
+    height: 150px;
 }
+
 
 .stat-item {
     padding: 2.5rem;
